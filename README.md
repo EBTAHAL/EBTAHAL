@@ -1,16 +1,22 @@
-## Hi there 👋
+### أهلاً بكِ في حسابي! 👋
 
-<!--
-**EBTAHAL/EBTAHAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا **ابتهال**، مطورة ويب وشغوفة بإنشاء وتطوير التطبيقات وقواعد البيانات.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 التقنيات والأدوات البرمجية:
+* **لغات البرمجة:** HTML, CSS, JavaScript, PHP, Java
+* **قواعد البيانات:** Oracle APEX, PL/SQL, MySQL
+* **أدوات التطوير:** Visual Studio Code, Eclipse, XAMPP, draw.io
+* **إدارة المشاريع والنمذجة:** Git, GitHub, UML Modeling
+
+---
+
+### 🚀 أبرز المشاريع والمهارات:
+* **تطبيقات الويب وقواعد البيانات:** بناء مشاريع متكاملة باستخدام PHP و Oracle APEX.
+* **التصميم الهندسي (UML):** رسم مخططات Use Case و Activity Diagrams للأنظمة المختلفة مثل أنظمة التذاكر والمقاهي.
+
+---
+
+### 📫 التواصل معي:
+* يسعدني مشاركة الأفكار البرمجية والتعاون في المشاريع التقنية!
